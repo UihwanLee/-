@@ -3,7 +3,7 @@
 
 [게임 이름] : '냥냥이대모험'(GrandAdventorOfCat)
 
-[개발 환경]
+[개발 환경]  
 Game Project : Unity 2018.2.1f1 (64-bit) / Microsoft Visual Studio 2017  
 Game UI : PhotoShop CC 2018
 
