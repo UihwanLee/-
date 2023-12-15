@@ -24,6 +24,10 @@
 이로써 Cloud Cat flag UI와 예제에서 나오는 스크립트들을 기준으로 게임을 발전시켰으며
 실제로 완성도 높은 게임을 만들기까지 목표를 세우고 잡았다.
 
+> 다운로드
+
+* [게임 다운로드](https://drive.google.com/open?id=1fpKC3LjAFu-FE0FEzYiBrBIhFig001c2)
+
 > 개발 과정  
 
 * 블로그 개발 과정
